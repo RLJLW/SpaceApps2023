@@ -11,10 +11,10 @@ Full information about this Space Apps Project is on the relevant SpaceApps Proj
 Within this repo are two files:
 </p>
 <p>
-  1) RLJLW-Challenge-2023.pptx  
+  1) <a href="https://rljlw.github.io/SpaceApps2023/RLJLW-Challenge-2023.pptx">RLJLW-Challenge-2023.pptx</a>
 </p>
 <p>
-  2) EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg  
+  2) <a href="https://github.com/RLJLW/SpaceApps2023/blob/main/EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg">EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg</a>
 </p>
 
 ### RLJLW-Challenge-2023.pptx
@@ -46,8 +46,9 @@ by the developer in Python.
 
 ### EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg
 <p>
-<a href="https://rljlw.github.io/SpaceApps2023/EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg">EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg</a>
-Is cropped portion of a fully processed NASA EMIT data file, the image image was created while working on the project using an ASP.NET data to image tool created by this developer.
+
+<a href="https://github.com/RLJLW/SpaceApps2023/blob/main/EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg">EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg</a>
+Is a cropped portion of a fully processed NASA EMIT data file, the image image was created while working on the project using an ASP.NET data to image tool created by this developer.
 </p>
 <p>
 A 1.8GB data file was downloaded from NASA, EMIT_L2A_RFL_001_20230119T114235_2301907_004.nc, which contains the region of Cape Town, South Africa.
