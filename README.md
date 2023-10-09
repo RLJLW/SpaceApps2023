@@ -26,13 +26,13 @@ by the developer in Python.
 ### EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg
 
 <p>
-Is cropped portion of a fully processed NASA EMIT data image created while working on the project using an ASP.NET image processing tool created by this developer.
+Is cropped portion of a fully processed NASA EMIT data file, the image image was created while working on the project using an ASP.NET data to image tool created by this developer.
 </p>
 <p>
-A 1.8GB data file was downloaded from NASA, EMIT_L2A_RFL_001_20230119T114235_2301907_004.nc.
+A 1.8GB data file was downloaded from NASA, EMIT_L2A_RFL_001_20230119T114235_2301907_004.nc, which contains the region of Cape Town, South Africa.
 </p>
 <p>
-A C# ASP.NET tool was created to process the data file, to show band 100, which is an infrared band.
+A C# ASP.NET tool was created to process the data file, to show band 100 (counting from band 0 as the first band) of the EMIT sensor data, which is an infrared band in the region of aproximately 1.1 microns.
 </p>
 The image reflectance intensity was then mapped to a full 1242 x 1280 grey scale BMP image.
 </p>
