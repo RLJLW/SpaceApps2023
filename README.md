@@ -62,23 +62,29 @@ RLJLW-Challenge-2023.pptx is a power point demonstration that shows some of the 
 </p>
 
 <ul>
+  
   <li>NASA EMIT Sensor data can be processsed and converted to color images of the surface, as the sensor contains the spectra of human visible light.</li>
   
-  <li>Spectographic graphs can be generated for each pixel (location on the surface), as </li>
+  <li>Spectographic graphs can be generated for each pixel (location on the surface).</li>
 
-  <li>Each band of light, for each pixel, is saved in a data file.</li>
+  <li>These spectographic profiles that can be analysed to classify types of some types of surfaces.</li>
 
-  
-
-  <li>Collectively these 285 bands create unique spectographic profiles that can be analysed to classify types of surfaces.</li>
-
-  <li>Vegetation on a surface using a NDVI calculation, which is based on red and infra red light,
-  and that plants absorb high amounts of red light but reflect infrared light, this allows for a means of vegetation surface classification, using a well known NDVI vegetation classification
-  calculation which is included in this presentation.</li>
-
-
-
+  <li>Vegetation can be analysed and displayed on a map using EMIT data and a NDVI (Normalized difference vegetation index) calculation, which is based on red and infra red light.</li>
 </ul>
+
+<p>
+Plants absorb high amounts of red light but reflect infrared light. This allows for a means of vegetation surface classification, this can be done with a NDVI vegetation calculation.
+The accuracy and sensitivity of characterisation, is dependant on choosing specific bands for red and infrared, and the threshold which above a certain factor can be interpretted as vegetation.
+</p>
+<p>
+Depending on which bands of red and infrared light are chosen in the calculation, and what threshold value is used for the NDVI number, the output
+of the classifcation is affected, for example it could be made more or less sensitive, or the classification respond to different types of red or infrared light.
+</p>
+<p>
+Read more about NDVI:
+<br />
+https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index
+</p>
 
 <p>
 The images described in this powerpoint were created from data in NASA EMIT FILE EMIT_L2A_RFL_001_20230119T114235_2301907_004.nc, which was then processed using tools writting
@@ -89,7 +95,7 @@ by the developer in Python.
 
 <figure>
 <img src="https://rljlw.github.io/SpaceApps2023/EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg" width="100%" />
-  <figcaption>Cropped image file created from NASA EMIT Data, showing band 100 in the infrared spectrum of Cape Town South Africa</figcaption>
+  <figcaption>Cropped image file created from NASA EMIT Data, showing band 100 in the infrared spectrum of Cape Town, South Africa</figcaption>
 </figure>
 <p>
   &nbsp;
