@@ -11,7 +11,7 @@ Full information about this Space Apps Project is on the relevant SpaceApps Proj
 Within this repo are two files:
 </p>
 <p>
-  1) <a href="https://rljlw.github.io/SpaceApps2023/RLJLW-Challenge-2023.pptx">RLJLW-Challenge-2023.pptx</a>
+  1) <a href="https://rljlw.github.io/SpaceApps2023/RLJLW-Challenge-2023.pptx">RLJLW-Challenge-2023.pptx</a> (click to view)
 </p>
 <p>
   2) <a href="https://github.com/RLJLW/SpaceApps2023/blob/main/EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg">EMIT_L2A_RFL_001_20230119T114235_2301907_004_ch_100-1.jpg</a>
