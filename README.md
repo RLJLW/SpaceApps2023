@@ -38,7 +38,7 @@ RLJLW-Challenge-2023.pptx is a power point demonstration that shows some of the 
   Vegetation on a surface using a NDVI calculation, which is based on red and infra red light,
   and that plants absorb high amounts of red light but reflect infrared light, this allows for a means of vegetation surface classification, using a well known NDVI vegetation classification
   calculation which is included in this presentation.  
-<p>
+</p>
 <p>
 The images described in this powerpoint were created from data in NASA EMIT FILE EMIT_L2A_RFL_001_20230119T114235_2301907_004.nc, which was then processed using tools writting
 by the developer in Python.
@@ -55,6 +55,7 @@ A 1.8GB data file was downloaded from NASA, EMIT_L2A_RFL_001_20230119T114235_230
 <p>
 A C# ASP.NET tool was created to process the data file, to show band 100 (counting from band 0 as the first band) of the EMIT sensor data, which is an infrared band in the region of aproximately 1.1 microns.
 </p>
+<p>
 The image reflectance intensity was then mapped to a full 1242 x 1280 grey scale BMP image.
 </p>
 <p>
